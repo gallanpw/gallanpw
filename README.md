@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 
 ###
 
-<!-- <img align="right" height="270" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw4anVuazN4MGhlYTI3bW83cTJqY3czMTljMWV4MWtwemF1bWh5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5USTijryafZEQ/200.webp"  /> -->
-
-<img align="right" height="270" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dlcjJqZWh2OG9pZWg4aWcyMngyNTRxYTU3ZHhqdGNvZ2ppZ3U5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zCtOatW0GOije/200.webp"  />
-
-<!-- <img align="right" height="270" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dlcjJqZWh2OG9pZWg4aWcyMngyNTRxYTU3ZHhqdGNvZ2ppZ3U5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/boFTBmyH46aQg/giphy.webp"  /> -->
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+
+<!-- <img align="right" height="270" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw4anVuazN4MGhlYTI3bW83cTJqY3czMTljMWV4MWtwemF1bWh5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5USTijryafZEQ/200.webp"  /> -->
+
+<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dlcjJqZWh2OG9pZWg4aWcyMngyNTRxYTU3ZHhqdGNvZ2ppZ3U5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zCtOatW0GOije/200.webp"  />
+
+<!-- <img align="right" height="270" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dlcjJqZWh2OG9pZWg4aWcyMngyNTRxYTU3ZHhqdGNvZ2ppZ3U5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/boFTBmyH46aQg/giphy.webp"  /> -->
 
 ###
 
