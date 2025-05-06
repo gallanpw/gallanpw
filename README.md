@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- <img align="right" height="270" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw4anVuazN4MGhlYTI3bW83cTJqY3czMTljMWV4MWtwemF1bWh5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5USTijryafZEQ/200.webp"  /> -->
 
-<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dlcjJqZWh2OG9pZWg4aWcyMngyNTRxYTU3ZHhqdGNvZ2ppZ3U5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zCtOatW0GOije/200.webp"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dlcjJqZWh2OG9pZWg4aWcyMngyNTRxYTU3ZHhqdGNvZ2ppZ3U5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zCtOatW0GOije/200.webp"  />
 
 <!-- <img align="right" height="270" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dlcjJqZWh2OG9pZWg4aWcyMngyNTRxYTU3ZHhqdGNvZ2ppZ3U5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/boFTBmyH46aQg/giphy.webp"  /> -->
 
@@ -45,33 +45,53 @@ Here are some ideas to get you started:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
+
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
+
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
+
+  <!-- <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> -->
+  
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
+
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-  <img width="12" />
+
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
+
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
+
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
-  <img width="12" />
+
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
+
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
+
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
+
+###
+
+<h3 align="left">📞 Reach me</h3>
 
 ###
 
