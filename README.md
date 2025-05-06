@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw4anVuazN4MGhlYTI3bW83cTJqY3czMTljMWV4MWtwemF1bWh5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5USTijryafZEQ/200.webp"  />
+<!-- <img align="right" height="270" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw4anVuazN4MGhlYTI3bW83cTJqY3czMTljMWV4MWtwemF1bWh5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5USTijryafZEQ/200.webp"  /> -->
+
+<img align="right" height="270" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dlcjJqZWh2OG9pZWg4aWcyMngyNTRxYTU3ZHhqdGNvZ2ppZ3U5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zCtOatW0GOije/200.webp"  />
+
+<!-- <img align="right" height="270" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dlcjJqZWh2OG9pZWg4aWcyMngyNTRxYTU3ZHhqdGNvZ2ppZ3U5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/boFTBmyH46aQg/giphy.webp"  /> -->
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -73,10 +77,10 @@ Here are some ideas to get you started:
   <a href="mailto:gallan.widyanto@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/gallanpw/" target="_blank">
+  <a href="https://www.linkedin.com/in/gallanpw/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/gallanpw" target="_blank">
+  <a href="https://x.com/gallanpw" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
