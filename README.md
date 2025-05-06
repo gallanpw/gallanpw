@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <a href=" gallan.widyanto@gmail.com" target="_blank">
+  <a href="mailto:gallan.widyanto@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/gallanpw/" target="_blank">
