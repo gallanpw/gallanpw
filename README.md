@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Gallan Widyanto from Indonesia<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning PHP, Javascript, and Typescript<br>- ⚡ In my free time I playing mobile legend and watching anime</p>
+<p align="left">I'm Gallan Widyanto from Indonesia<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning PHP, Javascript, and Typescript<br>- ⚡ In my free time I read a book, play Mobile Legends, and watch anime</p>
 
 ###
 
@@ -52,15 +52,17 @@ Here are some ideas to get you started:
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
 
-  <!-- <img width="12" />
+  <!--
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> -->
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  -->
+
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
 
@@ -96,15 +98,15 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <a href="mailto:gallan.widyanto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gallanpw/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/gallanpw" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+    <a href="mailto:gallan.widyanto@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    </a>
+    <a href="https://www.linkedin.com/in/gallanpw/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    </a>
+    <a href="https://x.com/gallanpw" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    </a>
 </div>
 
 ###
