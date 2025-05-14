@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Gallan Widyanto from Indonesia<br><br>- 🔭 I’m working as Backend Developer or Full Stack Developer<br>- 📚 I'm currently learning Javascript, Typescript, PHP<br>- ⚡ In my free time I read a book, play Mobile Legends, and watch anime</p>
+<p align="left">I'm Gallan Widyanto from Indonesia<br><br>- 🔭 I’m working as Backend Developer and Full Stack Developer<br>- 📚 I'm currently learning Javascript, Typescript, PHP<br>- ⚡ In my free time I read a book, play Mobile Legends, and watch anime</p>
 
 ###
 
@@ -64,13 +64,13 @@ Here are some ideas to get you started:
   -->
 
   <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
 
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
 
   <!--
   <img width="6" />
