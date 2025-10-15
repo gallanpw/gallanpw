@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Gallan Widyanto from Indonesia<br><br>- 🔭 I’m working as Backend Developer and Full Stack Developer<br>- 📚 I'm currently learning Javascript, Typescript, PHP<br>- ⚡ In my free time I read a book, play Mobile Legends, and watch anime</p>
+<p align="left">I'm Gallan Widyanto from Indonesia<br><br>- 🔭 I’m working as Backend Developer and Full Stack Developer<br>- 📚 I'm currently learning PHP, Javascript, Typescript<br>- ⚡ In my free time I read a book, play Mobile Legends: Bang Bang, and watch anime</p>
 
 ###
 
@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="30" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="30" alt="php logo" />
 
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript logo" />
 
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="30" alt="typescript logo" />
 
   <!--
   <img width="12" />
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   -->
 
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="30" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="30" alt="express logo" />
 
   <!--
   <img width="12" />
@@ -81,11 +81,11 @@ Here are some ideas to get you started:
   -->
 
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" width="30" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" width="30" alt="laravel logo" />
 
   <!--
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" width="30" alt="codeigniter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" width="30" alt="codeigniter logo" />
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
@@ -118,16 +118,16 @@ Here are some ideas to get you started:
   -->
 
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="30" alt="postgresql logo" />
 
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" alt="mysql logo" />
 
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="30" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="30" alt="mongodb logo" />
 
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" width="30" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" width="30" alt="redis logo" />
 </div>
 
 ###
