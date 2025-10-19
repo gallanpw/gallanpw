@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   <!--
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
-  
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
 
@@ -107,14 +107,14 @@ Here are some ideas to get you started:
 
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="30" alt="jquery logo" />
-  
-  <!--
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
-  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
 
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" width="30" alt="tailwindcss logo" />
+
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="30" alt="bootstrap logo" />
+
+  <!--
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo" />
   -->
@@ -126,11 +126,18 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" alt="mysql logo" />
 
   <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" width="30" alt="sqlite logo" />
+
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="30" alt="mongodb logo" />
 
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" width="30" alt="redis logo" />
 </div>
+
+<!-- <br /> -->
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=php,javascript,typescript,python,go,html,css,express,nest,flask,fastapi,laravel,codeigniter,django,nodejs,react,vue,svelte,jquery,tailwind,bootstrap,graphql,postgresql,mysql,sqlite,mongodb,redis)](https://skillicons.dev) -->
 
 ###
 
@@ -140,13 +147,16 @@ Here are some ideas to get you started:
 
 <div align="left">
     <a href="mailto:gallan.widyanto@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
     </a>
     <a href="https://www.linkedin.com/in/gallanpw/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
     </a>
     <a href="https://x.com/gallanpw" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+    </a>
+    <a href="https://gallan.dev" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
     </a>
 </div>
 
