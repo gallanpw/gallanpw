@@ -156,7 +156,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
     </a>
     <a href="https://gallan.dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+        <img src="https://img.shields.io/static/v1?message=Website&logo=About.me&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
     </a>
 </div>
 
