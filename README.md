@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Gallan Probo Widyanto from Indonesia<br><br>- 🔭 I’m working as Backend Developer and Full Stack Developer<br>- 📚 I'm currently learning PHP, Javascript, Typescript, and Go<br>- ⚡ In my free time I read a book, play Mobile Legends: Bang Bang, and watch anime</p>
+<p align="left">I'm Gallan Probo Widyanto from Indonesia<br><br>- 🔭 I’m working as Software Development Engineer in Test (SDET) and Software Quality Assurance Engineer (SQAE)<br>- 🎯 I'm looking for new journey as Robotic Process Automation (RPA) Developer, Backend Developer, Full Stack Developer<br>- 📚 I'm currently learning PHP, JavaScript, TypeScript, Python, and Go<br>- ⚡ In my free time I read a book, play Mobile Legends: Bang Bang, and watch anime</p>
 
 ###
 
@@ -53,12 +53,12 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="30" alt="typescript logo" />
 
   <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python logo" />
+
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="30" alt="go logo" />
 
   <!--
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python logo" />
-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="html5 logo" />
 
