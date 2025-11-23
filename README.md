@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Gallan Probo Widyanto from Indonesia<br><br>- 🔭 I’m working as Software Development Engineer in Test (SDET) and Software Quality Assurance Engineer (SQAE)<br>- 🎯 I'm looking for new journey as Robotic Process Automation (RPA) Developer, Backend Developer, Full Stack Developer<br>- 📚 I'm currently learning PHP, JavaScript, TypeScript, Python, and Go<br>- ⚡ In my free time I read a book, play Mobile Legends: Bang Bang, and watch anime</p>
+<p align="left">I'm Gallan Probo Widyanto from Indonesia<br><br>- 🔭 I’m working as Software Development Engineer in Test (SDET) and Software Quality Assurance Engineer (SQAE)<br>- 🎯 I'm looking for new journey as Robotic Process Automation (RPA) Developer, Backend Developer, Full Stack Developer, and Odoo Developer<br>- 📚 I'm currently learning PHP, JavaScript, TypeScript, Python, and Go<br>- ⚡ In my free time I read a book, play Mobile Legends: Bang Bang, and watch anime</p>
 
 ###
 
